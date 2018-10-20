@@ -1,0 +1,5 @@
+Este es el archivo testing mi conección
+
+Será creado en una nueva carpeta tanto local como en GitHub
+
+
